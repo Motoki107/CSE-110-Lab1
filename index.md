@@ -15,3 +15,4 @@ git checkout
 
 
 ![This is the picture of me!](Motoki Shintani headshot.jpg)
+
